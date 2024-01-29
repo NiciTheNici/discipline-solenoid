@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="5.9799718"
-     inkscape:cx="375.50344"
-     inkscape:cy="599.08309"
+     inkscape:zoom="2.1142393"
+     inkscape:cx="341.25749"
+     inkscape:cy="619.3717"
      inkscape:window-width="1735"
      inkscape:window-height="1096"
      inkscape:window-x="0"
@@ -47,13 +47,13 @@
        x="95.114693"
        y="161.36591"
        id="text1"
-       inkscape:export-filename="text1.png"
-       inkscape:export-xdpi="3000"
-       inkscape:export-ydpi="3000"><tspan
+       inkscape:export-filename="./revision.png"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.114"
          x="95.075005"
-         y="161.36591">Solenoid Edition 0.1</tspan></text>
+         y="161.36591">Solenoid Edition v0.1</tspan></text>
   </g>
 </svg>
