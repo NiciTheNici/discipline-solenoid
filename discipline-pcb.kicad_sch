@@ -8926,7 +8926,7 @@
     (property "Value" "R2.2" (at 271.5514 183.5534 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 273.05 185.42 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 273.05 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 273.05 185.42 0)
